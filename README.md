@@ -1,1 +1,3 @@
-# post_bc_spch2txt_act_2022
+# Speech To Text Activity
+
+### This acitivity is for the purpose of contributing to another project...
